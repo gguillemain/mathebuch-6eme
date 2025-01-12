@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "mathebuch-6eme",
+  "dependencies": {
+    "@shadcn/ui": "latest",
+    "tailwindcss": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
